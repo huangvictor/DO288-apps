@@ -11,7 +11,7 @@ pipeline {
 
     environment {
         DEV_PROJECT = "vhuang-ca-ibm-com-movies-dev"
-        STAGE_PROJECT = "vhuang-ca-ibm-movies-stage"
+        STAGE_PROJECT = "vhuang-ca-ibm-com-movies-stage"
         APP_GIT_URL = "https://github.com/huangvictor/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/java"
 
